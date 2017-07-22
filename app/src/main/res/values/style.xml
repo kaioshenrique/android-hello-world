@@ -3,6 +3,6 @@
     <style name="AppBaseTheme" parent="android:Theme">
     </style>
     <style name="AppTheme" parent="AppBaseTheme">
-        <item name="android:textColor">#b30303</item>
+        <item name="android:textColor">#c4c4c4</item>
     </style>
 </resources>
